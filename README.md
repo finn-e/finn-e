@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @finn-e
 - 👀 I’m interested in older programming languages like COBOL and Fortan, human-computer interaction and ergonomics, to name a few
-- 🌱 I’m currently learning javascript and node.js
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on projects where I can make a contribution
 - 📫 How to reach me: email is the best
 
